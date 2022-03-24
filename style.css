@@ -946,6 +946,12 @@ background: var(--primary_color);
 .footer .container .container_box .box {
   padding: 0 0;
 }
+  .home .container .content_box .box h3{
+  line-height:1.3;
+}
+.home .container .content_box .box h2{
+line-height:1.3;
+}
 }
 
 @media screen and (max-width:400px){
